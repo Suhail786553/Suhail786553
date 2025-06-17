@@ -1,35 +1,57 @@
+<!-- Banner or Name -->
 <h1 align="center">Hi 👋, I'm Suhail</h1>
-<h3 align="center">Full Stack Developer | MERN | Open Source Contributor</h3>
+<h3 align="center">Open Source Contributor | MERN Developer | Tech Enthusiast</h3>
+
+<p align="center">
+  <a href="https://github.com/mohdsuhail"><img src="https://komarev.com/ghpvc/?username=mohdsuhail&label=Profile%20views&color=0e75b6&style=flat" alt="mohdsuhail" /></a>
+</p>
+
+---
+
+## 🔥 About Me:
 
 - 🌱 I’m currently learning **AWS, DevOps & System Design**
 - 🤝 I’m looking to collaborate on **Open Source Projects**
-- 📝 I regularly write tech blogs at [My Blog](https://your-blog-link.com)
-- 📫 How to reach me: **mdsuhail.dev@gmail.com**
+- 📚 I'm currently working on Full Stack Projects
+- 📝 I regularly write tech blogs at [My Blog](https://yourblog.com)
+- 💬 Ask me about: **React.js, Node.js, MERN Stack, Cloud**
+- 📫 Reach me at **mdsuhail.dev@gmail.com**
 
 ---
 
-### 🛠 Tech Stack:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/mohd-suhail-dev)
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:mdsuhail.dev@gmail.com)
 
+---
+
+## 🛠 Tech Stack:
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
-![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express)
+![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
 
 ---
 
-### 📊 GitHub Stats:
-> Replace `mohdsuhail` with your GitHub username below ⬇
+## 📊 GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohdsuhail&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohdsuhail&layout=compact&theme=radical)
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=mohdsuhail&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohdsuhail&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mohdsuhail&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohdsuhail&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ---
 
-### 🔗 Socials
+## 📌 Top Contributed Repos:
+> You can customize this by pinning repositories to your GitHub profile.
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/mohd-suhail-dev)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mdsuhail.dev@gmail.com)
