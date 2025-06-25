@@ -43,18 +43,3 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
 
 ---
-
-## 📊 GitHub Stats:
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mohdsuhail&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mohdsuhail&theme=radical" />
-</p>
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohdsuhail&layout=compact&theme=radical" />
-</p>
-
----
-
-## 📌 Pinned Repositories:
-> Add your most important projects to [your pinned repos](https://github.com/mohdsuhail?tab=repositories&q=&type=source&language=&sort=stargazers) so they appear below your profile.
