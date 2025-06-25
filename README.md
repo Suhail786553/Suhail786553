@@ -3,7 +3,9 @@
 <h3 align="center">Open Source Contributor | MERN Developer | Tech Enthusiast</h3>
 
 <p align="center">
-  <a href="https://github.com/mohdsuhail"><img src="https://komarev.com/ghpvc/?username=mohdsuhail&label=Profile%20views&color=0e75b6&style=flat" alt="mohdsuhail" /></a>
+  <a href="https://github.com/mohdsuhail">
+    <img src="https://komarev.com/ghpvc/?username=mohdsuhail&label=Profile%20views&color=0e75b6&style=flat" alt="mohdsuhail" />
+  </a>
 </p>
 
 ---
@@ -12,20 +14,20 @@
 
 - 🌱 I’m currently learning **AWS, DevOps & System Design**
 - 🤝 I’m looking to collaborate on **Open Source Projects**
-- 📚 I'm currently working on Full Stack Projects
-- 📝 I regularly write tech blogs at [My Blog](https://yourblog.com)
+- 🛠️ I'm currently building **Full Stack MERN Applications**
+- 📝 I write blogs at [My Blog](https://yourblog.com)
 - 💬 Ask me about: **React.js, Node.js, MERN Stack, Cloud**
 - 📫 Reach me at **mdsuhail.dev@gmail.com**
 
 ---
 
-## 🌐 Socials:
+## 🌐 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/mohd-suhail-dev)
 [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white)](mailto:mdsuhail.dev@gmail.com)
 
 ---
 
-## 🛠 Tech Stack:
+## 🛠️ Tech Stack:
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
@@ -45,13 +47,14 @@
 ## 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohdsuhail&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mohdsuhail&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohdsuhail&layout=compact&theme=radical" alt="Top Languages" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mohdsuhail&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mohdsuhail&theme=radical" />
+</p>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohdsuhail&layout=compact&theme=radical" />
 </p>
 
 ---
 
-## 📌 Top Contributed Repos:
-> You can customize this by pinning repositories to your GitHub profile.
-
+## 📌 Pinned Repositories:
+> Add your most important projects to [your pinned repos](https://github.com/mohdsuhail?tab=repositories&q=&type=source&language=&sort=stargazers) so they appear below your profile.
