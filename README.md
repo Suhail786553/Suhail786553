@@ -15,7 +15,6 @@
 - 🌱 I’m currently learning **AWS, DevOps & System Design**
 - 🤝 I’m looking to collaborate on **Open Source Projects**
 - 🛠️ I'm currently building **Full Stack MERN Applications**
-- 📝 I write blogs at [My Blog](https://yourblog.com)
 - 💬 Ask me about: **React.js, Node.js, MERN Stack, Cloud**
 - 📫 Reach me at **mdsuhail.dev@gmail.com**
 
